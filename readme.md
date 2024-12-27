@@ -1,22 +1,18 @@
-<div align="center">
-	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
+
+	<imgwidth="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
 	<br>
 	<br>
-	<br>
-	<div>
-		<sub>Check out my macOS app</sub>
+	<brdiv
 		<br>
 		<h2>
-			<a href="https://sindresorhus.com/supercharge">Supercharge</a>
-			<br>
-			<sup>Elevate your Mac experience</sup>
-		</h2>
+			<a href="">Supercharge</a>
+
 	</div>
 	<br>
 	<br>
-	<br>
-	<br>
+
+	<
 	<hr>
 	<p>
 		<p>
